@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'WebAppPMdecision'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE6E4CBFFF2C4AD0B61165A2E9B747C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B83D03AFE3D64A19A462DB815A75D3F5 }}
           package: '*.jar'
